@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-tuto/static/css/main.b65e7518.chunk.css",
+    "main.js": "/react-tuto/static/js/main.b5463d40.chunk.js",
+    "main.js.map": "/react-tuto/static/js/main.b5463d40.chunk.js.map",
+    "runtime-main.js": "/react-tuto/static/js/runtime-main.34a57411.js",
+    "runtime-main.js.map": "/react-tuto/static/js/runtime-main.34a57411.js.map",
+    "static/js/2.f247ca6b.chunk.js": "/react-tuto/static/js/2.f247ca6b.chunk.js",
+    "static/js/2.f247ca6b.chunk.js.map": "/react-tuto/static/js/2.f247ca6b.chunk.js.map",
+    "index.html": "/react-tuto/index.html",
+    "static/css/main.b65e7518.chunk.css.map": "/react-tuto/static/css/main.b65e7518.chunk.css.map",
+    "static/js/2.f247ca6b.chunk.js.LICENSE.txt": "/react-tuto/static/js/2.f247ca6b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-tuto/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/react-tuto/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/react-tuto/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/react-tuto/static/media/img-9.f97f588f.jpg",
+    "static/media/herosection.css": "/react-tuto/static/media/img-home.c034239e.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/react-tuto/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a57411.js",
+    "static/js/2.f247ca6b.chunk.js",
+    "static/css/main.b65e7518.chunk.css",
+    "static/js/main.b5463d40.chunk.js"
+  ]
+}
